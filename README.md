@@ -2,7 +2,7 @@
 
 ### open in VSCode (using [PlatformIO](https://platformio.org/platformio-ide)), or use the Arduino IDE.
 
-### _write a description of what your robot does here:_ The main branch is just template code that doesn't control anything.
+### robot-j-2 is a robot with a 2 axis arm + wrist, and two drive motors with one pin encoders.
 
 https://github.com/rcmgames/RCMv2
 
